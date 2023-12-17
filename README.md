@@ -1,7 +1,7 @@
 ### 👋 Hi there I’m Jitendra Singh Bhadoria
 - 🔭 I’m currently pursuing M.Tech. CS at Indian Institute of Information Technology, Lucknow
-- 👀 I’m interested in Competitive Programming, Data Science, ML, and Web Development.
-- 💞️ I’m looking to collaborate on any Web Development or Data Science Project.
+- 🔭 I'm currently working as an SDE Intern at Dell Technologies, Chennai, Tamil Nadu
+- 👀 I’m interested in Competitive Programming, ML, and Full Stack Development.
 - 📫 You can reach me at jitendra.bhadoria98@gmail.com
 - Old Github Account: [@jitendrabhadoria](https://github.com/jitendrabhadoria)
 <!--
